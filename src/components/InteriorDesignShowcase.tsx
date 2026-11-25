@@ -13,6 +13,7 @@ export const InteriorDesignShowcase: React.FC<InteriorDesignShowcaseProps> = ({
   variant = 'light',
 }) => {
   const isDark = variant === 'dark';
+  const displayUrl = project.url.replace(/^https?:\/\//, '').replace(/\/+$/, '');
 
   return (
     <div
@@ -38,7 +39,7 @@ export const InteriorDesignShowcase: React.FC<InteriorDesignShowcaseProps> = ({
                 <span className="w-2.5 h-2.5 rounded-full bg-white/25" />
               </div>
               <div className="px-3 py-1 rounded bg-[#151D32] border border-white/10 text-[11px] font-mono text-slate-300 truncate max-w-[240px] sm:max-w-xs">
-                interior-designv11.vercel.app
+                {displayUrl}
               </div>
               <span className="text-[11px] font-mono text-slate-400 hidden sm:inline">
                 Live Demo
@@ -46,14 +47,20 @@ export const InteriorDesignShowcase: React.FC<InteriorDesignShowcaseProps> = ({
             </div>
 
             {/* Website Viewport Screenshot */}
-            <div className="aspect-video w-full overflow-hidden bg-[#F8F5EF]">
+            <a
+              href={project.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label={`Open ${project.title} live website in a new tab`}
+              className="block aspect-video w-full overflow-hidden bg-[#F8F5EF] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#4F8CFF]"
+            >
               <SmartImage
                 src={project.imagePath}
                 alt={project.imageAlt}
                 className="w-full h-full object-cover object-top"
                 fallbackTitle={project.title}
               />
-            </div>
+            </a>
           </div>
         </div>
 

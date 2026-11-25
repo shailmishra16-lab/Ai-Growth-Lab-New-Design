@@ -5,12 +5,12 @@ import solutionAnalyticsImg from '../assets/images/solution_analytics_1795410884
 import solutionAssistantsImg from '../assets/images/solution_assistants_1795410883958.jpg';
 import type { CaseStudyItem, PortfolioProject } from '../types';
 
-export const INTERIOR_DESIGN_URL = 'https://interior-designv11.vercel.app/';
+export const INTERIOR_DESIGN_URL = 'https://aranya-interiors.vercel.app/';
 
 export const PORTFOLIO_PROJECTS: PortfolioProject[] = [
   {
-    id: 'aaranya-interiors',
-    title: 'Interior Design Studio',
+    id: 'aranya-interiors',
+    title: 'Aranya Interiors — Interior Design Studio',
     category: 'Website Development · Residential Architecture & Interiors',
     url: INTERIOR_DESIGN_URL,
     shortDescription:
@@ -24,7 +24,7 @@ export const PORTFOLIO_PROJECTS: PortfolioProject[] = [
     highlights: ['Responsive UI', 'Portfolio Showcase', 'Consultation Form'],
     imagePath: interiorDesignImg,
     imageAlt:
-      'Desktop mockup screenshot of the Aaranya Interiors residential design studio website showing warm editorial typography and living room photography',
+      'Desktop mockup screenshot of the Aranya Interiors residential design studio website showing warm editorial typography and living room photography',
   },
 ];
 

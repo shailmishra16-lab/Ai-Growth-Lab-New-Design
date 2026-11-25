@@ -19,7 +19,7 @@ export const LiveDemosPage: React.FC = () => {
               Explore Two Working Capabilities Firsthand
             </h1>
             <p className="text-base sm:text-lg text-slate-300 leading-relaxed">
-              Review our live Interior Design Studio website demonstration and test real customer conversation analysis in the Interaction Analytics Playground.
+              Review our live Aranya Interiors — Interior Design Studio website demonstration and test real customer conversation analysis in the Interaction Analytics Playground.
             </p>
           </div>
         </div>
@@ -33,7 +33,7 @@ export const LiveDemosPage: React.FC = () => {
               Demo 01 · Website Development
             </p>
             <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-white">
-              Interior Design Website
+              Aranya Interiors — Interior Design Studio
             </h2>
             <p className="text-sm sm:text-base text-slate-300 mt-2 leading-relaxed">
               An existing, responsive studio website built to present residential interior services, curated portfolio work, and consultation requests.

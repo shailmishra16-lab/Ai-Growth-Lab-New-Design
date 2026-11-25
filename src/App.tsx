@@ -35,12 +35,12 @@ const ROUTE_META: Record<PageRoute, { title: string; description: string }> = {
   '/live-demos': {
     title: 'Live Demos | AI Growth Lab — Interior Design Site & Gemini Analytics',
     description:
-      'Explore our live Interior Design Studio website showcase and test the Gemini-powered Interaction Analytics Playground.',
+      'Explore our live Aranya Interiors — Interior Design Studio website showcase and test the Gemini-powered Interaction Analytics Playground.',
   },
   '/our-work': {
     title: 'Our Work | AI Growth Lab — Website Portfolio & Analytics Case Studies',
     description:
-      'View our Interior Design Studio website build alongside illustrative interaction analytics case studies for Banking, Healthcare, and E-commerce.',
+      'View our Aranya Interiors — Interior Design Studio website build alongside illustrative interaction analytics case studies for Banking, Healthcare, and E-commerce.',
   },
   '/about': {
     title: 'About | AI Growth Lab',

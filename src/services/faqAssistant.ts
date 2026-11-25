@@ -36,7 +36,7 @@ export const FAQ_KNOWLEDGE_BASE: FaqItem[] = [
     id: 'faq-website',
     question: 'Can you build a website for my business?',
     answer:
-      'Yes! AI Growth Lab helps create professional, responsive websites with features such as enquiry forms, service showcases, appointment booking and lead capture. You can explore our Interior Design website demonstration to see an example.',
+      'Yes! AI Growth Lab helps create professional, responsive websites with features such as enquiry forms, service showcases, appointment booking and lead capture. You can explore our Aranya Interiors — Interior Design Studio website demonstration to see an example.',
     keywords: ['website', 'web', 'site', 'portfolio', 'landing page', 'design', 'build'],
     action: {
       label: 'View Website Demo',
