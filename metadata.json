@@ -1,0 +1,6 @@
+{
+  "name": "AI GrowthLab",
+  "description": "AI Growth Lab builds intelligent websites, automates everyday business workflows, and turns customer conversations into actionable insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

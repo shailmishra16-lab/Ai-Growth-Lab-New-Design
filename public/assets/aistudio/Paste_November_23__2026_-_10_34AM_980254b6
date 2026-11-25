@@ -1,0 +1,1005 @@
+# AI GROWTH LAB — COMPLETE WEBSITE REDESIGN MASTER PROMPT
+
+## YOUR ROLE
+
+Act as an expert full-stack developer, senior UI/UX designer, AI solutions architect, and business website conversion specialist with 15+ years of professional experience.
+
+You are redesigning an EXISTING website developed using Google AI Studio, with source code maintained in GitHub and deployment through Vercel.
+
+**Existing website:** https://ai-business-growth-lab.vercel.app/
+
+**Brand name:** AI Growth Lab
+
+Your responsibility is to transform the existing website into a premium, modern, visually impressive and functional AI business solutions website.
+
+The website must serve two purposes:
+
+1. Present AI Growth Lab as a professional provider of websites, business automation and customer analytics solutions.
+2. Act as a portfolio demonstrating our website development and AI capabilities to potential clients.
+
+**IMPORTANT:** This is an existing project. Inspect its current code and architecture before making changes. Reuse existing functionality where appropriate. Do not unnecessarily rebuild the entire application.
+
+---
+
+# 1. BUSINESS POSITIONING & OBJECTIVE
+
+AI Growth Lab helps businesses simplify operations, improve customer engagement and make smarter decisions through practical technology.
+
+Our three core capabilities are:
+
+**BUILD. AUTOMATE. ANALYZE.**
+
+- BUILD: Professional websites, business applications, enquiry forms and booking systems.
+- AUTOMATE: Everyday workflows, follow-ups, notifications and repetitive business tasks.
+- ANALYZE: Customer conversations, reviews, feedback, sentiment and business insights.
+
+### Homepage Headline
+
+**Smarter Business. Less Manual Work. Better Decisions.**
+
+### Supporting Description
+
+"We build intelligent websites, automate everyday business workflows, and transform customer conversations into actionable insights that support better business decisions."
+
+### Primary CTA
+
+Explore Our Solutions
+
+### Secondary CTA
+
+Try Live Demos
+
+Use concise, professional and approachable language.
+
+Avoid exaggerated claims, unnecessary technical jargon and excessive industry-specific content.
+
+The website should create confidence that AI Growth Lab can build professional digital solutions and deliver practical business value.
+
+---
+
+# 2. COMPLETE VISUAL REDESIGN
+
+The existing website has an overly simple and predominantly white appearance.
+
+Completely redesign the visual identity to create a premium AI technology studio aesthetic.
+
+## Colour Palette
+
+- Primary background: Deep Navy (#0B1020)
+- Secondary background: Dark Slate (#151D32)
+- Primary accent: Electric Blue (#4F8CFF)
+- Secondary accent: Violet (#8B5CF6)
+- Light section background: #F5F7FB
+- Primary text on dark: #FFFFFF
+- Primary text on light: #172033
+
+Use a sophisticated balance of dark and light sections.
+
+Do not make every section white or every section dark.
+
+## Design Style
+
+Use:
+- Premium modern SaaS-inspired layouts
+- Bold, elegant typography
+- Professional business imagery
+- Attractive technology illustrations
+- High-quality website screenshots
+- Modern analytics dashboard visuals
+- Subtle gradients
+- Soft shadows
+- Refined hover interactions
+- Smooth but restrained animations
+- Consistent icons
+- Generous whitespace
+- Responsive design
+
+The design should feel comparable to a modern professional AI consulting or digital solutions company.
+
+Avoid:
+- Generic AI website templates
+- Too many repetitive cards
+- Excessive glassmorphism
+- Random stock photos
+- Excessive animations
+- Overly long paragraphs
+- Too many industry examples
+- Fake dashboards or unsupported business claims
+
+Use optimized, appropriately licensed or generated images.
+
+Ensure excellent visual appearance on mobile, tablet and desktop.
+
+---
+
+# 3. WEBSITE NAVIGATION
+
+Create the following navigation:
+
+**Home | Solutions | Live Demos | Our Work | About | Contact**
+
+Include a floating AI Assistant button at the bottom-right corner.
+
+The header should:
+- Look professional and modern.
+- Remain easy to navigate.
+- Work properly on mobile.
+- Include a prominent Contact CTA.
+- Use a clean logo treatment displaying AI Growth Lab.
+
+Do not display a founder name or personal phone number.
+
+---
+
+# 4. HOMEPAGE STRUCTURE
+
+Create the homepage with the following sections.
+
+## Section A — Hero
+
+Headline:
+
+"Smarter Business. Less Manual Work. Better Decisions."
+
+Supporting description:
+
+"AI-powered websites, intelligent automation and customer interaction insights designed to simplify operations and support business growth."
+
+Buttons:
+- Explore Our Solutions
+- Try Live Demos
+
+Add a premium visual composition illustrating:
+- Modern website development
+- AI automation
+- Analytics dashboards
+
+The hero should look impressive within the first few seconds of visiting the website.
+
+## Section B — Three Core Capabilities
+
+Create three elegant capability cards.
+
+### BUILD
+
+"Professional digital experiences that help businesses connect with customers."
+
+Examples:
+- Business websites
+- Portfolio websites
+- Appointment booking
+- Lead capture
+- Customer enquiry forms
+
+### AUTOMATE
+
+"Reduce repetitive tasks and simplify everyday business operations."
+
+Examples:
+- WhatsApp automation
+- Appointment reminders
+- Lead follow-ups
+- Status notifications
+- Workflow automation
+
+### ANALYZE
+
+"Turn customer conversations and feedback into actionable insights."
+
+Examples:
+- Sentiment analysis
+- Emotion identification
+- Customer pain points
+- Call driver analysis
+- Business improvement recommendations
+
+Keep this section visually attractive but concise.
+
+## Section C — Why AI Growth Lab?
+
+Present four business benefits:
+
+1. Less Manual Work
+2. Better Customer Engagement
+3. Actionable Business Insights
+4. Smarter Digital Experiences
+
+Use professional icons and short explanations.
+
+Do not fabricate performance statistics or customer testimonials.
+
+## Section D — Featured Website
+
+Showcase our existing Interior Design website.
+
+Website URL:
+
+https://interior-designv11.vercel.app/
+
+Include:
+- Actual website screenshot
+- Professional device mockup
+- Short description
+- Key verified features
+- View Live Website button
+
+Do not create a new Interior Design website.
+
+## Section E — Featured AI Analytics Demo
+
+Show a preview of the Interaction Analytics Playground.
+
+Include:
+- Example customer conversation
+- Sample sentiment indicators
+- Call driver categories
+- Recommended action preview
+
+Clearly distinguish illustrative preview data from real AI-generated results.
+
+Button:
+
+"Try Interaction Analytics"
+
+## Section F — Final CTA
+
+Headline:
+
+"Have a business challenge? Let's explore a smarter solution."
+
+Button:
+
+"Send an Enquiry"
+
+---
+
+# 5. SOLUTIONS PAGE
+
+Create exactly FOUR service categories.
+
+## Solution 1 — Website Development
+
+Showcase our ability to build modern, responsive and functional websites.
+
+Services include:
+- Professional business websites
+- Portfolio websites
+- Appointment booking
+- Lead generation forms
+- Customer enquiry management
+- Service showcases
+- Google Analytics integration
+- AI assistant integration
+
+Explain business benefits rather than listing only technical features.
+
+Include a link to our functioning Interior Design website.
+
+## Solution 2 — Business Automation
+
+Services include:
+- WhatsApp Business automation
+- Automated lead follow-ups
+- Appointment reminders
+- Status updates
+- Google Sheets workflow automation
+- Email notifications
+- Repetitive task automation
+- Customer enquiry workflows
+
+Explain how automation can reduce manual effort and improve response times.
+
+Do not claim integrations are already active when additional setup or third-party approvals are required.
+
+## Solution 3 — Interaction & Text Analytics
+
+Services include:
+- Customer sentiment analysis
+- Emotion identification from text
+- Call driver identification
+- Customer pain point analysis
+- Complaint classification
+- Agent behavior observations
+- Customer review analysis
+- Feedback analysis
+- Recommended corrective actions
+
+Include a prominent link to the live analytics demonstration.
+
+## Solution 4 — AI Assistants & Business Insights
+
+Services include:
+- Website AI assistants
+- Customer FAQ automation
+- Lead qualification
+- Business intelligence dashboards
+- Google Analytics reporting
+- Data-driven recommendations
+
+Explain the difference between predefined FAQ assistants and advanced AI-powered assistants.
+
+Do not imply that the website's initial FAQ assistant is powered by a live LLM.
+
+Each service category should have:
+- Professional image
+- Short description
+- Business benefits
+- Relevant use cases
+- Enquiry CTA
+
+Avoid creating individual pages for different industries.
+
+---
+
+# 6. LIVE DEMOS PAGE
+
+Create exactly TWO live demonstrations.
+
+## DEMO 1 — INTERIOR DESIGN WEBSITE
+
+Use our existing functioning website:
+
+https://interior-designv11.vercel.app/
+
+Do not rebuild or duplicate it.
+
+Create a premium portfolio card displaying:
+- Actual website screenshot
+- Project title
+- Short project description
+- Key verified features
+- View Live Website button
+
+The button should open the existing website in a new tab.
+
+The screenshot must accurately represent the existing website.
+
+Do not use unrelated stock images as website screenshots.
+
+## DEMO 2 — INTERACTION ANALYTICS PLAYGROUND
+
+Build a real, interactive customer interaction analytics demonstration.
+
+This feature must use the Gemini API for dynamic text analysis.
+
+### User Interface
+
+Create a professional analytics workspace containing:
+
+- Large text input field
+- Load Sample Conversation button
+- Analyze Interaction button
+- Clear/Reset button
+- Loading indicator
+- Results dashboard
+
+Allow users to paste a customer-agent conversation or transcript.
+
+### Required Analytics Outputs
+
+After analysis, display:
+
+1. Interaction Summary
+2. Overall Customer Sentiment
+3. Customer Emotions
+4. Primary Call Driver
+5. Secondary Call Drivers, where present
+6. Customer Pain Points
+7. Complaint Indicators
+8. Escalation Indicators
+9. Agent Behavior Observations
+10. Recommended Corrective Actions
+
+### Results Dashboard Design
+
+Use:
+- Sentiment indicator
+- Emotion tags
+- Call driver cards
+- Pain point summary
+- Complaint indicators
+- Recommended action panel
+
+Keep results visually attractive, easy to understand and business-focused.
+
+### Sample Conversation
+
+Provide at least one fictional sample conversation that users can load.
+
+Example:
+
+Customer: "I have called three times about my refund. Every agent tells me it will be processed, but nothing has happened."
+
+Agent: "I apologize for the inconvenience. Let me check your refund status."
+
+Customer: "I am frustrated because nobody is giving me a clear resolution."
+
+Agent: "I understand your concern. Let me review the case and provide the next steps."
+
+### Gemini API Requirements
+
+Use Gemini API through a secure server-side endpoint.
+
+Do not expose the API key in frontend code.
+
+Use environment variables.
+
+Use structured JSON output with schema validation.
+
+Ensure analysis is based on the actual submitted text.
+
+Do not return fixed or hardcoded results for arbitrary user inputs.
+
+Do not fabricate confidence percentages or unsupported conclusions.
+
+When evidence is insufficient, clearly state that the information cannot be determined.
+
+Do not claim voice-tone analysis when only a text transcript is provided.
+
+### Security and Privacy
+
+- Validate input length.
+- Apply server-side rate limiting.
+- Prevent excessive API usage.
+- Handle errors gracefully.
+- Do not permanently store submitted transcripts by default.
+- Do not unnecessarily log transcript contents.
+- Do not include submitted transcripts in third-party website analytics.
+- Display a notice asking visitors not to enter confidential or personally identifiable customer information.
+
+If Gemini integration cannot be completed immediately, show a clearly labelled unavailable state and document the missing configuration.
+
+Do not pretend that the live AI analysis works when it has not been connected.
+
+---
+
+# 7. OUR WORK PAGE
+
+Create TWO sections.
+
+## A. Website Development Portfolio
+
+Initially display only ONE existing website:
+
+**Interior Design Studio**
+
+URL:
+https://interior-designv11.vercel.app/
+
+Include:
+- Actual screenshot
+- Website name
+- Short description
+- Verified features
+- Live website link
+
+Design the portfolio so additional websites can be added later without redesigning the page.
+
+Do not create placeholder Dental Clinic websites.
+
+Do not invent completed projects or client names.
+
+## B. Interaction Analytics Case Studies
+
+Create exactly THREE illustrative case studies.
+
+### Case Study 1 — Banking
+
+Title:
+
+"Understanding Refund, Dispute and Repeat Contact Drivers"
+
+Business challenge:
+Customers repeatedly contact support regarding unresolved refunds and disputes.
+
+Illustrative analytics:
+- Repeat contact drivers
+- Customer frustration
+- Complaint patterns
+- Resolution gaps
+
+Recommended actions:
+- Improve refund communication
+- Identify recurring process failures
+- Strengthen proactive customer updates
+
+### Case Study 2 — Healthcare
+
+Title:
+
+"Improving Appointment Enquiries and Patient Experience"
+
+Business challenge:
+Patients experience appointment delays, unanswered enquiries and follow-up issues.
+
+Illustrative analytics:
+- Appointment-related complaints
+- Patient dissatisfaction
+- Communication gaps
+- Follow-up opportunities
+
+Recommended actions:
+- Improve appointment communication
+- Automate reminders
+- Identify recurring service issues
+
+### Case Study 3 — E-commerce
+
+Title:
+
+"Identifying Delivery, Return and Customer Service Pain Points"
+
+Business challenge:
+Customers complain about delayed deliveries, returns and refund processes.
+
+Illustrative analytics:
+- Delivery complaints
+- Return-related enquiries
+- Negative sentiment themes
+- Recurring customer concerns
+
+Recommended actions:
+- Improve proactive delivery communication
+- Simplify return instructions
+- Prioritize recurring complaint drivers
+
+### Case Study Presentation
+
+For each case study include:
+- Business challenge
+- Fictional sample interaction
+- Illustrative analytics findings
+- Visual dashboard
+- Recommended actions
+
+Clearly label all three as:
+
+"Illustrative Case Study — Sample Data"
+
+Do not fabricate real customer engagements, verified savings or actual business outcomes.
+
+---
+
+# 8. AI GROWTH LAB ASSISTANT — PHASE 1 FAQ CHATBOT
+
+IMPORTANT:
+
+For the initial website launch, DO NOT connect the AI Assistant to Gemini or any other paid AI API.
+
+Create a professional, interactive, rule-based FAQ assistant using predefined questions and answers.
+
+The assistant should feel polished and useful, but it must not falsely claim to be a live generative AI assistant.
+
+### Assistant Name
+
+AI Growth Lab Assistant
+
+### Welcome Message
+
+"Hi! Welcome to AI Growth Lab. I can help you explore website development, business automation and customer analytics solutions. What would you like to know?"
+
+### Suggested Quick Questions
+
+1. Can you build a website for my business?
+2. What business activities can be automated?
+3. How does WhatsApp automation work?
+4. Can you help manage appointments?
+5. Can you analyze customer conversations?
+6. Can you analyze Google reviews?
+7. Can you help manage leads and enquiries?
+8. How can I contact your team?
+
+### Predefined Answers
+
+**Q1: Can you build a website for my business?**
+
+"Yes! AI Growth Lab helps create professional, responsive websites with features such as enquiry forms, service showcases, appointment booking and lead capture. You can explore our Interior Design website demonstration to see an example."
+
+Provide:
+"View Website Demo" action.
+
+**Q2: What business activities can be automated?**
+
+"Many repetitive activities can be automated, including customer enquiries, appointment reminders, lead follow-ups, email notifications, data entry and status updates. The best approach depends on your existing business process."
+
+**Q3: How does WhatsApp automation work?**
+
+"WhatsApp automation can help businesses respond to enquiries, share information, send approved notifications and manage follow-ups. Implementation depends on WhatsApp Business platform requirements and the tools used."
+
+**Q4: Can you help manage appointments?**
+
+"Yes. We can develop appointment request and booking workflows, including available time slots, customer details, confirmation messages and reminders, depending on your requirements."
+
+**Q5: Can you analyze customer conversations?**
+
+"Yes! Our interaction analytics solutions can help identify customer sentiment, pain points, call drivers, complaints and improvement opportunities from conversation transcripts. Try our Interaction Analytics Playground to see an example."
+
+Provide:
+"Try Analytics Demo" action.
+
+**Q6: Can you analyze Google reviews?**
+
+"Yes. Customer review analytics can help identify recurring positive and negative themes, service concerns, customer expectations and opportunities for improvement. Analysis can be performed on legitimately accessible review data."
+
+**Q7: Can you help manage leads and enquiries?**
+
+"Yes. We can create lead capture forms, enquiry notifications and workflows that help businesses organize and follow up on customer enquiries."
+
+**Q8: How can I contact your team?**
+
+"You can send your requirements through our enquiry form or email us at team.aigrowthlab@gmail.com."
+
+Provide:
+"Contact Us" action.
+
+### Chatbot UI Requirements
+
+- Floating chat button on all pages
+- Professional chat window
+- Welcome message
+- Clickable predefined questions
+- Predefined answers
+- Clear navigation to relevant pages
+- Contact CTA
+- Minimize and close buttons
+- Mobile responsiveness
+- Accessible keyboard controls
+
+### Optional Free-Text Support
+
+If users type questions manually, use simple keyword matching to identify relevant FAQ topics.
+
+For example:
+- "website" → Website Development
+- "WhatsApp" → WhatsApp Automation
+- "appointment" → Appointment Management
+- "review" → Review Analytics
+- "customer calls" → Interaction Analytics
+- "contact" → Contact Information
+
+If the question does not match a supported topic, respond:
+
+"I'm currently able to answer common questions about AI Growth Lab services. Please select one of the suggested topics or contact our team for more specific requirements."
+
+Do not invent answers.
+
+### Future Gemini Integration
+
+Design the chatbot architecture so it can be upgraded to a real Gemini-powered assistant later.
+
+Keep:
+- Chat interface
+- FAQ knowledge base
+- Response logic
+
+Separate the FAQ response engine from the UI.
+
+Use a modular design that allows the response engine to be replaced with a secure Gemini backend in a future phase.
+
+Do not integrate Gemini into this chatbot during the initial implementation.
+
+---
+
+# 9. CONTACT & ENQUIRY SYSTEM
+
+Create a working enquiry form.
+
+### Contact Email
+
+team.aigrowthlab@gmail.com
+
+### Form Fields
+
+- Full Name — Required
+- Email Address — Required
+- Business Name — Optional
+- Service Required — Required
+- Requirements/Message — Required
+
+Service dropdown:
+- Website Development
+- Business Automation
+- Interaction & Text Analytics
+- AI Assistant
+- Other / Not Sure
+
+### Email Notification
+
+When a visitor submits the form:
+
+1. Validate the form.
+2. Send an email notification to team.aigrowthlab@gmail.com.
+3. Include all submitted enquiry details.
+4. Show a success message only after confirmed delivery acceptance.
+5. Show a meaningful error message if sending fails.
+
+### Technical Requirements
+
+Use a secure server-side email service compatible with Vercel.
+
+Use environment variables for email credentials.
+
+Apply validation, spam protection and rate limiting.
+
+Do not expose credentials in frontend code.
+
+Do not use Google Sheets for enquiry storage.
+
+Do not implement WhatsApp or SMS enquiry notifications.
+
+Do not use a mailto link as the primary form submission mechanism.
+
+Do not display a phone number.
+
+If email configuration is missing, provide clear setup instructions and do not falsely indicate that messages were delivered.
+
+---
+
+# 10. ABOUT PAGE
+
+Create a simple, professional and brand-focused About section.
+
+### Heading
+
+About AI Growth Lab
+
+### Content
+
+"We're passionate about making modern technology practical and accessible for businesses.
+
+At AI Growth Lab, we continuously explore emerging AI tools, automation technologies and data-driven solutions to simplify everyday work, improve customer experiences and support smarter business decisions.
+
+We believe meaningful growth comes from combining curiosity, technology and actionable insights."
+
+### Closing Statement
+
+"Explore. Build. Automate. Improve."
+
+### Brand Identity
+
+Use:
+
+**AI Growth Lab Team**
+
+Do not include:
+- Meet the Founder
+- Founder name
+- Personal photograph
+- Years of experience
+- Previous employers
+- Personal career details
+- Personal mobile number
+- Fictional team profiles
+
+Do not imply an unverified company size or legal status.
+
+Keep the tone enthusiastic, professional and authentic.
+
+---
+
+# 11. FOOTER
+
+Include:
+- AI Growth Lab
+- Build. Automate. Analyze.
+- Solutions
+- Live Demos
+- Our Work
+- About
+- Contact
+- Privacy Policy
+
+Contact:
+team.aigrowthlab@gmail.com
+
+Do not display any phone number.
+
+Use a polished footer consistent with the premium design.
+
+---
+
+# 12. SEO & PERFORMANCE
+
+Implement:
+- Page titles
+- Meta descriptions
+- Open Graph metadata
+- Sitemap
+- Robots.txt
+- Semantic headings
+- Image alt text
+- Optimized images
+- Lazy loading
+- Responsive design
+- Accessible navigation
+- Keyboard support
+- Good colour contrast
+- Clear form labels
+- Fast page loading
+
+Avoid unnecessary libraries and heavy animations.
+
+---
+
+# 13. TECHNICAL ARCHITECTURE
+
+Inspect and reuse the existing framework wherever practical.
+
+Preserve:
+- GitHub repository compatibility
+- Vercel deployment configuration
+- Existing useful components
+- Working integrations
+- Environment variable setup
+
+### Gemini Integration
+
+Gemini is required ONLY for:
+
+**Interaction Analytics Playground**
+
+Gemini is NOT required for the initial FAQ chatbot.
+
+Use a secure Vercel-compatible server-side endpoint for Gemini analysis.
+
+Keep API keys in environment variables.
+
+### Email Integration
+
+Use a secure email service for contact form notifications.
+
+Keep email credentials in environment variables.
+
+### AI Assistant
+
+Use local predefined FAQ data and rule-based response logic.
+
+No external AI API is required for the assistant in Phase 1.
+
+Structure the code for future Gemini integration.
+
+---
+
+# 14. IMPLEMENTATION PLAN
+
+Work in stages.
+
+### Stage 1 — Project Inspection
+
+Review existing:
+- Source code
+- Framework
+- Routes
+- Components
+- Dependencies
+- Integrations
+- GitHub/Vercel configuration
+
+Provide a concise plan before modifying code.
+
+### Stage 2 — Visual Redesign
+
+Implement:
+- Design system
+- Homepage
+- Navigation
+- Solutions
+- About
+- Footer
+- Mobile responsiveness
+
+### Stage 3 — Portfolio & Case Studies
+
+Implement:
+- Interior Design website showcase
+- Live website link
+- Three illustrative analytics case studies
+- Portfolio layout
+
+### Stage 4 — FAQ Assistant
+
+Implement:
+- Floating chatbot
+- Predefined questions
+- Predefined answers
+- Keyword matching
+- Navigation actions
+- Future Gemini-ready architecture
+
+### Stage 5 — Interaction Analytics
+
+Implement:
+- Transcript input
+- Gemini API integration
+- Structured analysis output
+- Results dashboard
+- Security and error handling
+
+### Stage 6 — Enquiry System
+
+Implement:
+- Contact form
+- Email notification
+- Validation
+- Spam protection
+- Success and failure messages
+
+### Stage 7 — Quality Assurance
+
+Test:
+- Desktop responsiveness
+- Mobile responsiveness
+- Navigation
+- Existing website demo link
+- FAQ assistant responses
+- Gemini analytics with different transcripts
+- Email delivery
+- API security
+- Loading speed
+- Accessibility
+- Vercel build compatibility
+
+---
+
+# 15. STRICT BOUNDARIES
+
+1. Do not rebuild the existing Interior Design website.
+2. Do not create a Dental Clinic website.
+3. Show only two live demonstrations.
+4. Do not create unnecessary industry-specific pages.
+5. Do not display founder identity.
+6. Do not display a phone number.
+7. Do not fabricate testimonials or business results.
+8. Do not fake Gemini analytics responses.
+9. Do not connect the FAQ chatbot to Gemini in Phase 1.
+10. Do not expose API keys.
+11. Do not use Google Sheets for enquiry handling.
+12. Do not overwrite functioning code without inspection.
+13. Do not introduce unnecessary dependencies.
+14. Do not claim integrations work before testing.
+15. Do not deploy directly to production without approval.
+
+---
+
+# 16. CREDIT & DEVELOPMENT EFFICIENCY
+
+Minimize Google AI Studio credit consumption.
+
+Reuse existing infrastructure.
+
+Avoid regenerating the entire project repeatedly.
+
+Implement changes in logical, modular stages.
+
+Prefer simple, maintainable solutions over unnecessary complexity.
+
+Do not install large UI libraries unless justified.
+
+Keep the code organized for future enhancements.
+
+Before making major changes, explain:
+- What will change
+- Which files will be modified
+- Whether new dependencies are required
+- Whether environment variables are required
+- What must be tested
+
+---
+
+# EXPECTED FINAL RESULT
+
+Deliver a premium AI Growth Lab website that:
+
+- Looks modern, credible and professional.
+- Demonstrates real website-building capability.
+- Showcases the existing Interior Design website.
+- Provides genuine Gemini-powered interaction analytics.
+- Includes a functional predefined FAQ assistant.
+- Explains business automation services clearly.
+- Includes three illustrative analytics case studies.
+- Sends enquiries to team.aigrowthlab@gmail.com.
+- Protects the founder's public identity.
+- Works well on desktop and mobile.
+- Remains compatible with the existing GitHub and Vercel deployment setup.
+
+**FIRST ACTION: Inspect the existing project and present a concise implementation plan. Wait for approval before modifying files.**

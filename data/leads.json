@@ -1,0 +1,122 @@
+[
+  {
+    "id": "lead-1789038132865-pkmb",
+    "name": "Aarav Patel",
+    "business": "Patel Diagnostics",
+    "email": "aarav@pateldiag.com",
+    "phone": "+91 99887 76655",
+    "industry": "Healthcare & Clinics",
+    "website": "",
+    "problem": "Need automated appointment booking and patient reminder calls",
+    "preferredContact": "whatsapp",
+    "status": "new",
+    "notes": "New inquiry received via AI GrowthLab portal.",
+    "createdAt": "2026-09-10T11:02:12.865Z",
+    "updatedAt": "2026-09-10T11:02:12.865Z",
+    "notificationSent": {
+      "email": true,
+      "whatsapp": true,
+      "timestamp": "2026-09-10T11:02:12.865Z"
+    }
+  },
+  {
+    "id": "lead-001",
+    "name": "Rajesh Sharma",
+    "business": "Aura Lifestyle D2C",
+    "email": "rajesh@auralifestyle.in",
+    "phone": "+91 98201 12345",
+    "industry": "E-Commerce & D2C",
+    "website": "https://auralifestyle.in",
+    "problem": "High cart abandonment (68%) during checkout and delayed responses on Instagram/WhatsApp inquiries.",
+    "preferredContact": "whatsapp",
+    "status": "new",
+    "notes": "Spoke briefly on WhatsApp. Wants automated abandoned cart triggers within 5 minutes.",
+    "createdAt": "2026-09-09T14:30:00.000Z",
+    "updatedAt": "2026-09-09T14:30:00.000Z",
+    "notificationSent": {
+      "email": true,
+      "whatsapp": true,
+      "timestamp": "2026-09-09T14:30:05.000Z"
+    }
+  },
+  {
+    "id": "lead-002",
+    "name": "Dr. Ananya Sen",
+    "business": "Apex Multispeciality Dental",
+    "email": "ananya.sen@apexdental.org",
+    "phone": "+91 98450 78912",
+    "industry": "Healthcare & Clinics",
+    "website": "https://apexdentalcare.in",
+    "problem": "Front-desk reception missing 40% of patient calls during peak procedures; need voice AI appointment triage and automated follow-ups.",
+    "preferredContact": "phone",
+    "status": "in_discussion",
+    "notes": "Reviewed demo of voice telecaller appointment booking. Scheduled architecture audit call for Thursday 4 PM.",
+    "createdAt": "2026-09-08T11:15:00.000Z",
+    "updatedAt": "2026-09-09T10:00:00.000Z",
+    "notificationSent": {
+      "email": true,
+      "whatsapp": true,
+      "timestamp": "2026-09-08T11:15:02.000Z"
+    }
+  },
+  {
+    "id": "lead-003",
+    "name": "Vikramaditya Chauhan",
+    "business": "Pinnacle JEE & NEET Academy",
+    "email": "v.chauhan@pinnacleacademy.edu",
+    "phone": "+91 99100 45678",
+    "industry": "Coaching & Education",
+    "website": "https://pinnacleacademy.edu",
+    "problem": "Staff overwhelmed answering identical parent queries on WhatsApp regarding test scores, attendance, and fee installments.",
+    "preferredContact": "whatsapp",
+    "status": "contacted",
+    "notes": "Sent parent update bot workflow demo. Parent satisfaction index estimated to rise 35%.",
+    "createdAt": "2026-09-07T09:45:00.000Z",
+    "updatedAt": "2026-09-08T16:20:00.000Z",
+    "notificationSent": {
+      "email": true,
+      "whatsapp": true,
+      "timestamp": "2026-09-07T09:45:06.000Z"
+    }
+  },
+  {
+    "id": "lead-004",
+    "name": "Meera Krishnan",
+    "business": "Heritage Palms Boutique Resort",
+    "email": "meera@heritagepalms.com",
+    "phone": "+91 97412 33445",
+    "industry": "Hospitality (Hotels & Resorts)",
+    "website": "https://heritagepalmsresort.com",
+    "problem": "Negative Google reviews regarding restaurant order wait times; need instant feedback recovery token and 24/7 concierge WhatsApp bot.",
+    "preferredContact": "email",
+    "status": "converted",
+    "notes": "Contract approved! Implementing Review & Feedback Intelligence + WhatsApp Concierge bot.",
+    "createdAt": "2026-09-05T16:00:00.000Z",
+    "updatedAt": "2026-09-09T12:00:00.000Z",
+    "notificationSent": {
+      "email": true,
+      "whatsapp": true,
+      "timestamp": "2026-09-05T16:00:04.000Z"
+    }
+  },
+  {
+    "id": "lead-005",
+    "name": "Kunal Singhal",
+    "business": "Apex BPO Solutions",
+    "email": "kunal@apexbpo.co",
+    "phone": "+91 98111 22334",
+    "industry": "BPO & Customer Support",
+    "website": "https://apexbposolutions.com",
+    "problem": "QA team currently audits only 1.5% of agent audio recordings. Need 100% transcript speech audit and agent coaching scorecards.",
+    "preferredContact": "phone",
+    "status": "closed",
+    "notes": "Completed initial proof of concept on 500 recorded audio calls.",
+    "createdAt": "2026-08-28T10:00:00.000Z",
+    "updatedAt": "2026-09-01T15:30:00.000Z",
+    "notificationSent": {
+      "email": true,
+      "whatsapp": true,
+      "timestamp": "2026-08-28T10:00:05.000Z"
+    }
+  }
+]
